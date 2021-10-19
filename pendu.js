@@ -1,7 +1,5 @@
 var read = require("readline-sync");
 
-
-
 /* 
 Le celèbre jeu du pendu.
 */
